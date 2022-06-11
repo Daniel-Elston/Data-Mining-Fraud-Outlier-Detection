@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img width="555" alt="image" src="https://user-images.githubusercontent.com/98388088/158099842-37825d56-8f39-4de9-bf08-1981bf63fb4f.png">
+![](https://github.com/Daniel-Elston/Daniel-Elston/blob/main/GitBanner3.png)
 
 </p>
 <hr>
